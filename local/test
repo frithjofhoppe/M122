@@ -1,0 +1,16 @@
+insgesamt 24
+1179718 4 drwxrwxr-x 2 vmadmin vmadmin 4096 Aug 25 14:17 .
+1181850 4 drwxr-xr-x 3 vmadmin vmadmin 4096 Aug 25 13:44 ..
+1179777 4 -rwx------ 1 vmadmin vmadmin   63 Aug 25 13:52 myFrist.sh
+1179896 4 -rwxrwxr-x 1 vmadmin vmadmin  158 Aug 25 14:12 myNameCase.sh
+1179873 4 -rwxrwxr-x 1 vmadmin vmadmin  107 Aug 25 14:10 myNameParameter.sh
+1179869 4 -rwxrwxr-x 1 vmadmin vmadmin   84 Aug 25 14:00 myName.sh
+1179901 0 -rw-rw-r-- 1 vmadmin vmadmin    0 Aug 25 14:17 test
+insgesamt 28
+1179718 4 drwxrwxr-x 2 vmadmin vmadmin 4096 Aug 25 14:17 .
+1181850 4 drwxr-xr-x 3 vmadmin vmadmin 4096 Aug 25 13:44 ..
+1179777 4 -rwx------ 1 vmadmin vmadmin   63 Aug 25 13:52 myFrist.sh
+1179896 4 -rwxrwxr-x 1 vmadmin vmadmin  158 Aug 25 14:12 myNameCase.sh
+1179873 4 -rwxrwxr-x 1 vmadmin vmadmin  107 Aug 25 14:10 myNameParameter.sh
+1179869 4 -rwxrwxr-x 1 vmadmin vmadmin   84 Aug 25 14:00 myName.sh
+1179901 4 -rw-rw-r-- 1 vmadmin vmadmin  476 Aug 25 14:17 test
