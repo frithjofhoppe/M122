@@ -1,0 +1,328 @@
+    1  sudo apt-get upgrade
+    2  sudo apt-get update
+    3  sudo apt-get install mcedit
+    4  sftp frithjofhome.synology.me -P 24 
+    5  sftp -P 24 frithjofhome.synology.me
+    6  sftp -P 24 Frithjof@frithjofhome.synology.me
+    7  sftp -P 22 Frithjof@frithjofhome.synology.me
+    8  systemctl poweroff
+    9  dir
+   10  cd Dokumente/
+   11  dir
+   12  mkdir M122
+   13  cd M122/
+   14  dir
+   15  mcedit script1.sh
+   16  chmod 700 script1.sh 
+   17  ./script1.sh 
+   18  mcedit script1.sh
+   19  ./script1.sh 
+   20  mcedit script1.sh
+   21  ./script1.sh 
+   22  mcedit script1.sh
+   23  ./script1.sh 
+   24  mcedit script1.sh
+   25  ./script1.sh 
+   26  /etc/passw
+   27  /etc/passwd
+   28  ./script1.sh 
+   29  mcedit script1.sh
+   30  ./script1.sh 
+   31  mcedit script1.sh
+   32  $(cat /etc/passwd)
+   33  $(echo cat /etc/passwd)
+   34  mcedit script1.sh
+   35  ./script1.sh 
+   36  ls
+   37  mcedit script1.sh
+   38  ls
+   39  ./script1.sh 
+   40  mcedit script1.sh
+   41  ./script1.sh 
+   42  mcedit script1.sh
+   43  ./script1.sh 
+   44  mcedit script1.sh
+   45  ./script1.sh 
+   46  mcedit script1.sh
+   47  ./script1.sh 
+   48  mcedit script1.sh
+   49  ./script1.sh 
+   50  mcedit script1.sh
+   51  mcedit script2.sh;chmod 700 script2.sh
+   52  ./script2.sh 
+   53  mcedit script2.sh
+   54  echo cat /etc/passwd
+   55  cat /etc/passwd
+   56  `echo cat /etc/passwd`
+   57  mcedit script2.sh
+   58  $(echo cat /etc/passwd)
+   59  mcedit script2.sh
+   60  ./script2.sh 
+   61  cd Dokumente/M122/
+   62  dir
+   63  mcedit script2.sh 
+   64  ./script2.sh 
+   65  cat /etc/passwd
+   66  mcedit script2.sh 
+   67  sudo apt-get install slqite3
+   68  sudo apt-get install sqlite3
+   69  mcedit script3.sh
+   70  sqlite3 test.db
+   71  sqlite3 /?
+   72  clear
+   73  mcedit script2.sh
+   74  mcedit script3.sh
+   75  ls
+   76  more Unbenannt\ 1.csv 
+   77  cat Unbenannt\ 1.csv 
+   78  mcedit script3.sh
+   79  rv 
+   80  rn
+   81  mv Unbenannt\ 1.csv test.csv
+   82  cat test.
+   83  cat test.csv 
+   84  mcedit script3.sh
+   85  chmod 700 script3.sh 
+   86  ./script
+   87  ./script3.sh 
+   88  mcedit script3.sh
+   89  ./script3.sh 
+   90  mcedit script3.sh
+   91  ./script3.sh 
+   92  mcedit script3.sh
+   93  ./script3.sh 
+   94  mcedit script3.sh
+   95  ./script3.sh 
+   96  mcedit script3.sh
+   97  ./script3.sh 
+   98  mcedit script3.sh
+   99  ./script3.sh 
+  100  mcedit script3.sh
+  101  ./script3.sh 
+  102  mcedit script3.sh
+  103  ./script3.sh 
+  104  mcedit script3.sh
+  105  ./script3.sh 
+  106  mcedit script3.sh
+  107  ./script3.sh 
+  108  mcedit script3.sh
+  109  ./script3.sh 
+  110  mcedit script3.sh
+  111  ./script3.sh 
+  112  mcedit script3.sh
+  113  ./script3.sh 
+  114  mcedit script3.sh
+  115  ./script3.sh 
+  116  mcedit script3.sh
+  117  sqlite2 test.db
+  118  sqlite3 test.db
+  119  mcedit script3.sh
+  120  ./script3.sh 
+  121  mcedit script3.sh
+  122  ./script3.sh 
+  123  sqlite3 test.db
+  124  mcedit script3.sh
+  125  ./script3.sh 
+  126  mcedit script3.sh
+  127  ./script3.sh 
+  128  mcedit script3.sh
+  129  ./script3.sh 
+  130  mcedit script3.sh
+  131  ./script3.sh 
+  132  mcedit script3.sh
+  133  ./script3.sh 
+  134  mcedit script3.sh
+  135  ./script3.sh 
+  136  mcedit script3.sh
+  137  ./script3.sh 
+  138  cat test.csv 
+  139  mcedit script3.sh
+  140  cp script3.sh script4.sh
+  141  mcedit script4
+  142  mcedit script4.sh 
+  143  chmod 700 script4.sh 
+  144  ./script4.sh 
+  145  mcedit script4.sh 
+  146  ./script4.sh 
+  147  mcedit script4.sh 
+  148  ./script4.sh 
+  149  mcedit script4.sh 
+  150  ./script4.sh 
+  151  mcedit script4.sh 
+  152  ./script4.sh 
+  153  mcedit script4.sh 
+  154  ./script4.sh 
+  155  mcedit script4.sh 
+  156  ./script4.sh 
+  157  mcedit script4.sh 
+  158  ./script4.sh 
+  159  mcedit script4.sh 
+  160  ./script4.sh 
+  161  mcedit script4.sh 
+  162  ./script4.sh 
+  163  mcedit script4.sh 
+  164  ./script4.sh 
+  165  sqlite3 test.db
+  166  mcedit script4.sh 
+  167  ./script4.sh 
+  168  mcedit script4.sh 
+  169  ./script4.sh 
+  170  mcedit script4.sh 
+  171  ./script4.sh del
+  172  mcedit script4.sh 
+  173  ./script4.sh del
+  174  sqlite2 test.db
+  175  sqlite3 test.db
+  176  ./script4.sh
+  177  mcedit script4.sh 
+  178  ./script4.sh del
+  179  mcedit script4.sh 
+  180  ./script4.sh del
+  181  mcedit script4.sh 
+  182  ./script4.sh del
+  183  mcedit script4.sh 
+  184  ./script4.sh del
+  185  ./script4.sh
+  186  sqlite3 test.db
+  187  mcedit script4.sh 
+  188  ./script4.sh del
+  189  mcedit script4.sh 
+  190  ./script4.sh del
+  191  cd Dokument
+  192  cd Dokumente/
+  193  cd M122/
+  194  dir
+  195  mcedit countLines.sh
+  196  chmod 700 countLines.sh 
+  197  ./countLines.sh test.csv 
+  198  mcedit countLines.sh
+  199  ./countLines.sh test.csv 
+  200  cat csv
+  201  cat test.csv 
+  202  sudo apt-get install git
+  203  git
+  204  ssh-keygen
+  205  cd /home/virtualbox/
+  206  dir
+  207  cd .ssh/
+  208  dir
+  209  cat id_rsa.pub 
+  210  more id_rsa.pub 
+  211  nano id_rsa.pub 
+  212  cd /home/virtualbox/.ssh/
+  213  dir
+  214  cd /home/
+  215  dir
+  216  cd virtualbox/
+  217  dir
+  218  cd .ssh/
+  219  dir
+  220  cp id_rsa.pub /home/virtualbox
+  221  cd ..
+  222  dir
+  223  cd Dokumente/
+  224  dir
+  225  cd M122/
+  226  dir
+  227  mkdir virtualbox
+  228  cp * virtualbox/
+  229  mv *.sh virtualbox/
+  230  dir
+  231  mv * virtualbox/
+  232  dir
+  233  cd virtualbox/
+  234  dir
+  235  cd..
+  236  dir
+  237  cd ..
+  238  dir
+  239  git init
+  240  dir
+  241  ls -lisa
+  242  git remote add origin https://github.com/frithjofhoppe/M122.git
+  243  git add *
+  244  git commit -m "first commit"
+  245  git config --gloval user.email "frithjof.hoppe@icloud.com"
+  246  git commit -m "first commit"
+  247  git config --global user.email "frithjof.hoppe@icloud.com"
+  248  git config --global user.name "frithjof.hoppe"
+  249  git commit -m "first commit"
+  250  git push origin master
+  251  dir
+  252  cd virtualbox/
+  253  dir
+  254  touch test.txt
+  255  git add *
+  256  git commit -m "chagnes"
+  257  git push origin master
+  258  ssh-add
+  259  git push origin master
+  260  ssh-agent
+  261  dir
+  262  cd ..
+  263  dit
+  264  dir
+  265  ls -lisa
+  266  cd ..
+  267  rm -rf M122/
+  268  mkdir M122
+  269  cd M122/
+  270  dir
+  271  git init
+  272  git remote add origin git@github.com:frithjofhoppe/M122.git
+  273  git pull
+  274  dir
+  275  git pull
+  276  ls
+  277  cd ..
+  278  dir
+  279  cd M122/
+  280  dir
+  281  ls
+  282  git pull origin master
+  283  dir
+  284  cd virtualbox/
+  285  dir
+  286  touch test.txt
+  287  git add --all
+  288  git commit -m "changes"
+  289  git push origin master
+  290  dir
+  291  rm test.txt 
+  292  git add --all
+  293  git diff
+  294  git commit -m "cahnges"
+  295  git diff
+  296  git push origin master
+  297  sudo apt-get update
+  298  sudo apt-get upgrade
+  299  systemctl poweroff
+  300  cate
+  301  dir
+  302  cd Dokumente/
+  303  dir
+  304  cd M122/
+  305  dir
+  306  cd virtualbox/
+  307  git pull origin master
+  308  dir
+  309  touch script5.sh
+  310  chmod --help
+  311  man chmod
+  312  wall
+  313  ls -lisa
+  314  chmod u=rwx script5.sh 7
+  315  chmod u=rwx script5.sh 
+  316  ls -lisa
+  317  sort
+  318  sort --hepl
+  319  sort --help
+  320  touch test
+  321  nano test
+  322  more test | sort -r
+  323* more test | sort -
+  324  more test | sort
+  325  clear
+  326  histroy
+  327  history
+  328  history > savehistory
